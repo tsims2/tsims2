@@ -60,11 +60,27 @@ ESP.Artifacts is a reusable Python domain library for energy operations workflow
 
 Additional work includes load forecasting, model evaluation, operational Power BI dashboards, Azure SQL data modeling, automated settlement reporting, and Python workflow automation for energy-market operations.
 
-## GitHub stats
+## GitHub activity
+
+Public GitHub reflects selected personal and portfolio work. Most of my production engineering work is in private enterprise repositories across work GitHub and Azure DevOps.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tsims2&show_icons=true&theme=radical" alt="Tyler's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tsims2&show_icons=true&theme=radical" alt="Tyler's public GitHub stats" />
 </p>
+
+## Private engineering work
+
+Much of my most relevant engineering work lives in private enterprise repositories across work GitHub and Azure DevOps.
+
+That work includes:
+
+* Designing and building ESP.Artifacts, a reusable Python domain library for energy operations workflows
+* Building ESP.App, an internal React/TypeScript and FastAPI application for operational workflow execution
+* Developing Celery/Redis scheduled workflows, run tracking, admin controls, and artifact generation
+* Maintaining Python automation packages for reporting, settlements, performance calculations, and data quality checks
+* Working with Azure SQL, PostgreSQL, Power BI, Git, and Azure DevOps in production-facing internal systems
+
+Public GitHub reflects selected personal and portfolio work. Private repositories contain the majority of my production application, workflow automation, and energy operations engineering work.
 
 ## Connect
 
